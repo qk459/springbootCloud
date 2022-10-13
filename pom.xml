@@ -24,6 +24,8 @@
     </properties>
 
 
+<!---->
+
 
     <!--锁定版本-->
     <dependencyManagement>
@@ -57,6 +59,7 @@
 
         </dependencies>
     </dependencyManagement>
+
 
     <build>
         <plugins>
